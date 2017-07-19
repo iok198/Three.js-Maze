@@ -1,7 +1,7 @@
 Physijs.scripts.worker = 'physijs_worker.js'
 Physijs.scripts.ammo = 'ammo.js'
 
-document.getElementById("music").volume = 0.025
+document.getElementById("music").volume = 0.2
 
 const scene = new Physijs.Scene
 
