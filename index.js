@@ -336,7 +336,7 @@ scene.add( plane )
 
 let finishPlatformGeometry = new THREE.BoxGeometry(20, 0, 20, 0)
 let finishPlatformMaterial = new THREE.MeshBasicMaterial({
-    color: "red"
+    color: "green"
 })
 
 let finishPlatform = new Physijs.BoxMesh(finishPlatformGeometry, finishPlatformMaterial)
